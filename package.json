@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/tjbell/JS-CreateJS#readme",
   "dependencies": {
-    "acorn": "^6.1.1",
+    "acorn": "^6.4.1",
     "astq": "^2.6.3",
     "chai": "^4.2.0",
     "cheerio": "^1.0.0-rc.3",
